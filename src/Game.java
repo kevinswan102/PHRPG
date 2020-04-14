@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-//William Munoz
+//Kevin Swan
 //May 11, 2016
 
 public class Game extends JFrame
