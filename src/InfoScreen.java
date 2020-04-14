@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-//William Munoz
+//Kevin Swan
 //May 18, 2016
 
 public class InfoScreen
