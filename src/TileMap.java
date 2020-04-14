@@ -8,7 +8,7 @@ import java.io.FileReader;
 
 import javax.imageio.ImageIO;
 
-//William Munoz
+//Kevin Swan
 //May 14, 2016
 
 
